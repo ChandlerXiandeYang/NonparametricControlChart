@@ -1,4 +1,4 @@
-# 📊 Cleaning Validation Trend Analysis
+# 📊 Cleaning Validation Stability Analysis
 
 This repository focuses on developing a **custom control chart methodology** tailored for **Cleaning Process Validation** data, which presents unique challenges:
 
